@@ -1,0 +1,21 @@
+.article-content {
+	max-width: 700px;
+	min-width: 300px;
+	margin: 100px auto;
+}
+.article-content h2 {
+	font-size: 40px;
+	margin-bottom: 20px;
+	font-style: italic;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	overflow: hidden;
+}
+
+.article-content p {
+	font-size: 20px;
+}
+
+span {
+	font-size: 35px;
+}

@@ -1,0 +1,17 @@
+.App-header {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+h1 {
+	margin: 50px;
+}
+
+button {
+	margin: 80px;
+	font-size: 30px;
+	padding: 10px;
+	border-radius: 6px;
+}
